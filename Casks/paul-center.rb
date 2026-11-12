@@ -1,6 +1,6 @@
 cask "paul-center" do
-  version "0.4.6"
-  sha256 "7dbe7e24eb1102bcb7117633548e37f9461533af30e406ff580f7d7e7cd05956"
+  version "0.4.7"
+  sha256 "2e35cae083991bef57ea81d8c56e714639cac7f1213704021d5d780f583763fe"
 
   url "https://paulcenter.ai/download/Paul-Center-#{version}.dmg"
   name "Paul Center"
@@ -17,6 +17,7 @@ cask "paul-center" do
   depends_on macos: :sonoma
 
   auto_updates true
+
 
 
 
