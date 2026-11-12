@@ -1,6 +1,6 @@
 cask "paul-center" do
-  version "0.4.2"
-  sha256 "50d35ab84aee72edbd90992f8e140c9197b7bfc506e870057ddcd511df6e2c32"
+  version "0.4.4"
+  sha256 "c7af56b8bda07f34e8418dcce7896fc686118c359cb1ba17e6d9bccd4204ab43"
 
   url "https://paulcenter.ai/download/Paul-Center-#{version}.dmg"
   name "Paul Center"
